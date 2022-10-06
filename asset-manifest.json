@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Tinder-clone.git/static/css/main.15461af3.css",
-    "main.js": "/Tinder-clone.git/static/js/main.0c5327ee.js",
-    "static/js/787.64343069.chunk.js": "/Tinder-clone.git/static/js/787.64343069.chunk.js",
-    "index.html": "/Tinder-clone.git/index.html",
-    "main.15461af3.css.map": "/Tinder-clone.git/static/css/main.15461af3.css.map",
-    "main.0c5327ee.js.map": "/Tinder-clone.git/static/js/main.0c5327ee.js.map",
-    "787.64343069.chunk.js.map": "/Tinder-clone.git/static/js/787.64343069.chunk.js.map"
+    "main.css": "/Tinder-clone/static/css/main.15461af3.css",
+    "main.js": "/Tinder-clone/static/js/main.5489b289.js",
+    "static/js/787.64343069.chunk.js": "/Tinder-clone/static/js/787.64343069.chunk.js",
+    "index.html": "/Tinder-clone/index.html",
+    "main.15461af3.css.map": "/Tinder-clone/static/css/main.15461af3.css.map",
+    "main.5489b289.js.map": "/Tinder-clone/static/js/main.5489b289.js.map",
+    "787.64343069.chunk.js.map": "/Tinder-clone/static/js/787.64343069.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.15461af3.css",
-    "static/js/main.0c5327ee.js"
+    "static/js/main.5489b289.js"
   ]
 }
